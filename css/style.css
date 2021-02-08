@@ -1,0 +1,46 @@
+body {
+    background: black;
+}
+
+main {
+    min-height: 100vh;
+}
+
+.green {
+    text-shadow: 0 0 5px #7bffce, 0 0 10px #7bffce, 0 0 20px #7bffce, 0 0 40px #7bffce, 0 0 80px #7bffce, 0 0 100px #7bffce;
+}
+
+.blue {
+    text-shadow: 0 0 5px #7bacff, 0 0 10px #7bacff, 0 0 20px #7bacff, 0 0 40px #7bacff, 0 0 80px #7bacff, 0 0 100px #7bacff;
+}
+
+.pink {
+    text-shadow: 0 0 5px #ff7bac, 0 0 10px #ff7bac, 0 0 20px #ff7bac, 0 0 40px #ff7bac, 0 0 80px #ff7bac, 0 0 100px #ff7bac;
+}
+
+.tituloFecha {
+    font-size: 0.5cm;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+}
+
+
+/*botones*/
+
+.boton {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.btngreen {
+    background-color: #7bffce;
+}
+
+.btnblue {
+    background-color: #7bacff;
+}
+
+.btnpink {
+    background-color: #ff7bac;
+}
